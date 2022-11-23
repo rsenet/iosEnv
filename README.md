@@ -54,8 +54,11 @@ Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/
 
 ## Thanks
 [https://abrignoni.blogspot.com/2018/12/identifying-installed-and-uninstalled.html](https://abrignoni.blogspot.com/2018/12/identifying-installed-and-uninstalled.html)
+
 [https://www.magnetforensics.com/blog/ios-tracking-bundle-ids-for-containers-shared-containers-and-plugins/](https://www.magnetforensics.com/blog/ios-tracking-bundle-ids-for-containers-shared-containers-and-plugins/)
+
 [https://abrignoni.blogspot.com/2019/09/ios-snapshots-triage-parser-working.html](https://abrignoni.blogspot.com/2019/09/ios-snapshots-triage-parser-working.html)
+
 [https://book.hacktricks.xyz/mobile-pentesting/ios-pentesting/ios-hooking-with-objection](https://book.hacktricks.xyz/mobile-pentesting/ios-pentesting/ios-hooking-with-objection)
 
 
