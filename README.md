@@ -1,4 +1,4 @@
-# About EYAPS
+# About iosEnv
 
 **iosEnv** was written to quickly get information regarding path of installed iOS application using applicationState.db file
 
