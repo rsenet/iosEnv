@@ -18,7 +18,8 @@ optional arguments:
   --app APP    Focus on this specific application
 ```
 
-The **--file** option is mandatory and represent the applicationState.db file. This file could be retrieve on a jailbreaked device at: */private/var/mobile/Library/FrontBoard/applicationState.db*
+The **--file** option is mandatory and represent the applicationState.db file. This file could be retrieve on a jailbreaked device at: **/private/var/mobile/Library/FrontBoard/applicationState.db**
+
 More information regarding the *applicationState.db* file on [https://abrignoni.blogspot.com/2018/12/identifying-installed-and-uninstalled.html](https://abrignoni.blogspot.com/2018/12/identifying-installed-and-uninstalled.html)
 
 Once specified, iosEnv will parse the complete file:
