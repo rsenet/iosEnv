@@ -25,7 +25,7 @@ More information regarding the *applicationState.db* file on [https://abrignoni.
 Once specified, iosEnv will parse the complete file:
 
 ```bash
-$ python3 iosEnv.py [--file applicationState.db
+$ python3 iosEnv.py --file applicationState.db
 [...]
 Processing: com.apple.tips
  > ID: 82
